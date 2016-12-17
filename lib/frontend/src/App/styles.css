@@ -1,0 +1,21 @@
+.app {
+  width: 960px;
+  margin: 0 auto;
+}
+
+.stubs {
+  background: #444;
+}
+
+.header {
+  padding: 10px;
+  background: #8a8a8a;
+  color: #fff;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.header h1 {
+  font-size: 1em;
+  margin: 0;
+}

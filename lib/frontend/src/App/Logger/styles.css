@@ -1,0 +1,8 @@
+.logger {
+  background: #000;
+  font-size: 0.8em;
+  overflow-x: scroll;
+  overflow-y: scroll;
+  height: 300px;
+  margin: 0;
+}
